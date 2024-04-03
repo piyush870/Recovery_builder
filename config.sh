@@ -7,7 +7,7 @@ export BRANCH="twrp-12.1" # the branch of manifest
 
 # about your device
 export DEVICE="ossi" # codename used in device tree
-export DT_LINK="https://github.com/twrpdtgen/android_device_oplus_ossi.git" # device tree link
+export DT_LINK="https://github.com/piyush870/android_twrp_tree_11x.git" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="oplus" # device manufacturer or vendor
 export TARGET="vendorboot" # build method: recoveryimage, bootimage, vendorboot
